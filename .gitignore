@@ -1,0 +1,26 @@
+# 编译输出
+Debug/
+Release/
+build/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+
+# IDE 文件
+*.uvoptx
+*.uvguix
+*.launch
+.cproject
+.project
+.mxproject
+.settings/
+.vscode/
+
+# 系统文件
+*.swp
+*~
+.DS_Store
+Thumbs.db
