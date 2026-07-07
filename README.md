@@ -51,3 +51,11 @@ ADC采样 → 保护检查 → PID计算 → 更新PWM
 ## 许可证
 
 MIT License
+
+## 练习项目
+
+| 文档 | 说明 |
+|------|------|
+| [BUCK_PRACTICE.md](./BUCK_PRACTICE.md) | **标准Buck降压电路练习方案** — 从设计规格、参数计算、原理图、PCB布局到调试验证全覆盖 |
+| [TUTORIAL.md](./TUTORIAL.md) | 从零到比赛的完整教程（配套 Core/ 代码） |
+| [POWER_CONVERTER_GUIDE.md](./POWER_CONVERTER_GUIDE.md) | 电赛电源类 DC-DC/DC-AC/AC-DC/AC-AC 四大变换器总结 |
